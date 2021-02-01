@@ -6,7 +6,6 @@ class Parent{
 }
 
 
-
 class Child extends Parent{
     constructor(name, age){
         super();
